@@ -1,0 +1,360 @@
+{
+  "people": [
+    {
+      "id": "Andrew Burian",
+      "firstname": "Andrew",
+      "lastname": "Burian",
+      "strength1": "Input",
+      "strength2": "Learner",
+      "strength3": "Relator",
+      "strength4": "Woo",
+      "strength5": "Analytical",
+      "pronoun": "he",
+      "github": "AndrewBurian"
+    },
+    {
+      "id": "Arthur Camara",
+      "firstname": "Arthur",
+      "lastname": "Camara",
+      "strength1": "Strategic",
+      "strength2": "Ideation",
+      "strength3": "Relator",
+      "strength4": "Self-Assurance",
+      "strength5": "Activator",
+      "pronoun": "he",
+      "github": "arthurcamara1"
+    },
+    {
+      "id": "Zia Castillo",
+      "firstname": "Zia",
+      "lastname": "Castillo",
+      "strength1": "Relator",
+      "strength2": "Deliberative",
+      "strength3": "Maximizer",
+      "strength4": "Strategic",
+      "strength5": "Self-Assurance",
+      "pronoun": "she",
+      "github": "ziacastillo"
+    },
+    {
+      "id": "Maximiliano Castro",
+      "firstname": "Maximiliano",
+      "lastname": "Castro",
+      "strength1": "Deliberative",
+      "strength2": "Harmony",
+      "strength3": "Analytical",
+      "strength4": "Responsibility",
+      "strength5": "Restorative",
+      "pronoun": "he",
+      "github": "creedarky"
+    },
+    {
+      "id": "Daniela Díaz Reyna",
+      "firstname": "Daniela",
+      "lastname": "Díaz Reyna",
+      "strength1": "Input",
+      "strength2": "Strategic",
+      "strength3": "Learner",
+      "strength4": "Arranger",
+      "strength5": "Intellection",
+      "pronoun": "she",
+      "github": "danidiazreyna"
+    },
+    {
+      "id": "Wren Handman",
+      "firstname": "Wren",
+      "lastname": "Handman",
+      "strength1": "Achiever",
+      "strength2": "Strategic",
+      "strength3": "Intellection",
+      "strength4": "Input",
+      "strength5": "Communication",
+      "pronoun": "she",
+      "github": "WrenHandman"
+    },
+    {
+      "id": "Fabio Kume",
+      "firstname": "Fabio",
+      "lastname": "Kume",
+      "strength1": "Ideation",
+      "strength2": "Relator",
+      "strength3": "Intellection",
+      "strength4": "Responsibility",
+      "strength5": "Individualization",
+      "pronoun": "he",
+      "github": "fkenji"
+    },
+    {
+      "id": "Brian Leung",
+      "firstname": "Brian",
+      "lastname": "Leung",
+      "strength1": "Ideation",
+      "strength2": "Strategic",
+      "strength3": "Intellection",
+      "strength4": "Command",
+      "strength5": "Futuristic",
+      "pronoun": "he",
+      "github": "brianleung11-3"
+    },
+    {
+      "id": "Eric Lin",
+      "firstname": "Eric",
+      "lastname": "Lin",
+      "strength1": "Learner",
+      "strength2": "Deliberative",
+      "strength3": "Analytical",
+      "strength4": "Input",
+      "strength5": "Restorative",
+      "pronoun": "he",
+      "github": "EricLin2004"
+    },
+    {
+      "id": "Geordie MacDonald",
+      "firstname": "Geordie",
+      "lastname": "MacDonald",
+      "strength1": "Ideation",
+      "strength2": "Communication",
+      "strength3": "Input",
+      "strength4": "Learner",
+      "strength5": "Command",
+      "pronoun": "he",
+      "github": "geordiemac"
+    },
+    {
+      "id": "Pablo Navarro",
+      "firstname": "Pablo",
+      "lastname": "Navarro",
+      "strength1": "Achiever",
+      "strength2": "Activator",
+      "strength3": "Input",
+      "strength4": "Relator",
+      "strength5": "Self-Assurance",
+      "pronoun": "he",
+      "github": "pnavarrc"
+    },
+    {
+      "id": "Jody Rebak",
+      "firstname": "Jody",
+      "lastname": "Rebak",
+      "strength1": "Empathy",
+      "strength2": "Positivity",
+      "strength3": "Arranger",
+      "strength4": "Significance",
+      "strength5": "Maximizer",
+      "pronoun": "she",
+      "github": "jodyrebak"
+    },
+    {
+      "id": "Cassidy Robertson",
+      "firstname": "Cassidy",
+      "lastname": "Robertson",
+      "strength1": "Focus",
+      "strength2": "Futuristic",
+      "strength3": "Activator",
+      "strength4": "Positivity",
+      "strength5": "Competition",
+      "pronoun": "she",
+      "github": "Cassidy-Robertson"
+    },
+    {
+      "id": "Nick Salloum",
+      "firstname": "Nick",
+      "lastname": "Salloum",
+      "strength1": "Activator",
+      "strength2": "Positivity",
+      "strength3": "Strategic",
+      "strength4": "Achiever",
+      "strength5": "Competition",
+      "pronoun": "he",
+      "github": "callmenick"
+    },
+    {
+      "id": "Ramtin Seraj",
+      "firstname": "Ramtin",
+      "lastname": "Seraj",
+      "strength1": "Learner",
+      "strength2": "Input",
+      "strength3": "Positivity",
+      "strength4": "Discipline",
+      "strength5": "Maximizer",
+      "pronoun": "he",
+      "github": "ramtinms"
+    },
+    {
+      "id": "Oleg Zd",
+      "firstname": "Oleg",
+      "lastname": "Zd",
+      "strength1": "Restorative",
+      "strength2": "Harmony",
+      "strength3": "Analytical",
+      "strength4": "Individualization",
+      "strength5": "Competition",
+      "pronoun": "he",
+      "github": "olegzd"
+    },
+    {
+      "id": "Leo Zhang",
+      "firstname": "Leo",
+      "lastname": "Zhang",
+      "strength1": "Achiever",
+      "strength2": "Learner",
+      "strength3": "Deliberative",
+      "strength4": "Self-Assurance",
+      "strength5": "Maximizer",
+      "pronoun": "he",
+      "github": "zhangchiqing"
+    },
+    {
+      "id": "Christine Legge",
+      "firstname": "Christine",
+      "lastname": "Legge",
+      "strength1": "Achiever",
+      "strength2": "Analytical",
+      "strength3": "Individualization",
+      "strength4": "Competition",
+      "strength5": "Learner",
+      "pronoun": "she",
+      "github": "leggechr"
+    },
+    {
+      "id": "Kai Aldag",
+      "firstname": "Kai",
+      "lastname": "Aldag",
+      "strength1": "Ideation",
+      "strength2": "Analytical",
+      "strength3": "Focus",
+      "strength4": "Achiever",
+      "strength5": "Learner",
+      "pronoun": "he",
+      "github": "KaiCode2"
+    },
+    {
+      "id": "Christopher Scott",
+      "firstname": "Christopher",
+      "lastname": "Scott",
+      "strength1": "Context",
+      "strength2": "Intellection",
+      "strength3": "Consistency",
+      "strength4": "Learner",
+      "strength5": "Focus",
+      "pronoun": "he",
+      "github": "chrisaxiom"
+    },
+    {
+      "id": "Qaid Damji",
+      "firstname": "Qaid",
+      "lastname": "Damji",
+      "strength1": "Futuristic",
+      "strength2": "Ideation",
+      "strength3": "Strategic",
+      "strength4": "Learner",
+      "strength5": "Competition",
+      "pronoun": "he",
+      "github": "qdamji"
+    },
+    {
+      "id": "Stefano Tirloni",
+      "firstname": "Stefano",
+      "lastname": "Tirloni",
+      "strength1": "Context",
+      "strength2": "Learner",
+      "strength3": "Empathy",
+      "strength4": "Relator",
+      "strength5": "Achiever",
+      "pronoun": "he",
+      "github": "stedesign"
+    },
+    {
+      "id": "Daniela Gattoni",
+      "firstname": "Daniela",
+      "lastname": "Gattoni",
+      "strength1": "Restorative",
+      "strength2": "Harmony",
+      "strength3": "Responsibility",
+      "strength4": "Learner",
+      "strength5": "Individualization",
+      "pronoun": "she",
+      "github": "dgattoni"
+    },
+    {
+      "id": "Mack Flavelle",
+      "firstname": "Mack",
+      "lastname": "Flavelle",
+      "strength1": "Strategic",
+      "strength2": "Futuristic",
+      "strength3": "Positivity",
+      "strength4": "Input",
+      "strength5": "Includer",
+      "pronoun": "he",
+      "github": "mackflavelle"
+    },
+    {
+      "id": "Kan Zhang",
+      "firstname": "Kan",
+      "lastname": "Zhang",
+      "strength1": "Analytical",
+      "strength2": "Achiever",
+      "strength3": "Significance",
+      "strength4": "Individualization",
+      "strength5": "Competition",
+      "pronoun": "he",
+      "github": "Kay-Zee"
+    }
+  ],
+  "categories": [
+    {
+      "category": "Executing",
+      "strengths": [
+        "Achiever",
+        "Arranger",
+        "Belief",
+        "Consistency",
+        "Deliberative",
+        "Discipline",
+        "Focus",
+        "Responsibility",
+        "Restorative"
+      ]
+    },
+    {
+      "category": "Influencing",
+      "strengths": [
+        "Activator",
+        "Command",
+        "Communication",
+        "Competition",
+        "Maximizer",
+        "Self-Assurance",
+        "Significance",
+        "Woo"
+      ]
+    },
+    {
+      "category": "Relationship Building",
+      "strengths": [
+        "Adaptability",
+        "Connectedness",
+        "Developer",
+        "Empathy",
+        "Harmony",
+        "Includer",
+        "Individualization",
+        "Positivity",
+        "Relator"
+      ]
+    },
+    {
+      "category": "Strategic Thinking",
+      "strengths": [
+        "Analytical",
+        "Context",
+        "Futuristic",
+        "Ideation",
+        "Input",
+        "Intellection",
+        "Learner",
+        "Strategic"
+      ]
+    }
+  ]
+}

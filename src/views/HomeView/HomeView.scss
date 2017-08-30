@@ -1,0 +1,16 @@
+.radars {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.radar {
+  h2 {
+    margin-top: -3rem;
+    text-align: center;
+  }
+}
+
+circle {
+  // fill: red !important;
+}

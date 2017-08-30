@@ -1,0 +1,13 @@
+# Compiled #
+############
+build
+dist
+
+# node.js related #
+###################
+node_modules
+npm-debug.log
+
+# Other #
+#########
+ncp-debug.log
