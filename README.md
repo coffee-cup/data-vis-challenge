@@ -1,6 +1,6 @@
 # Data Vis Challenge
 
-This is the code for the AZ data visualization challenge. Built with hatch-react.
+This is the code for my data vis challenge. Built with hatch-react.
 
 ## Usage
 
