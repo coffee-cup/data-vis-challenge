@@ -1,17 +1,10 @@
-# hatch-react
+# Data Vis Challenge
 
-[![Ship faster with ZenHub](https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png)](https://zenhub.com)
-
-A react starter kit. Features:
-
-* React
-* Redux
-* Sass (SCSS)
-
-## Contributing
-
-Check out the [contributing guidelines.](CONTRIBUTING.md)
+This is the code for the AZ data visualization challenge. Built with hatch-react.
 
 ## Usage
 
-Check out the [usage guidelines.](USAGE.md)
+- Clone
+- `yarn`
+- `yarn run start:dev`
+- [localhost:3000](http://localhost:4000)

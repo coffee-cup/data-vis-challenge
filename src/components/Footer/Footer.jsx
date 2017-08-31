@@ -6,7 +6,7 @@ function Footer() {
   return (
     <footer className="Footer">
       <Container>
-        <small>Made with ♥ by Axiom Zen</small>
+        <small>Messy code on <a href="https://github.com/coffee-cup/data-vis-challenge">Github</a></small>
       </Container>
     </footer>
   );

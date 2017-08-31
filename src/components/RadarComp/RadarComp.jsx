@@ -6,8 +6,8 @@ function RadarComp({ data, name }) {
   return (
     <div className="radar">
       <Radar
-        width={400}
-        height={400}
+        width={450}
+        height={450}
         padding={80}
         domainMax={4}
         highlighted={null}

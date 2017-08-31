@@ -8,8 +8,10 @@
     "start:dev": "cross-env NODE_ENV=development webpack-dev-server",
     "build:development": "cross-env NODE_ENV=development webpack",
     "build:staging": "cross-env NODE_ENV=staging webpack",
-    "build:production": "cross-env NODE_ENV=production webpack",
-    "storybook": "start-storybook -p 9001 -c .storybook"
+    "build:production": "cross-env NODE_ENV=production webpack && cp index.html dist/",
+    "storybook": "start-storybook -p 9001 -c .storybook",
+    "predeploy": "npm run build:production",
+    "deploy": "surge dist/ az-data-vis.surge.sh"
   },
   "repository": {
     "type": "git",
@@ -19,6 +21,7 @@
   "license": "UNLICENSED",
   "dependencies": {
     "classnames": "^2.2.5",
+    "parzen-js": "^0.0.10",
     "prop-types": "^15.5.3",
     "react": "^15.5.3",
     "react-d3-radar": "^0.2.6",
