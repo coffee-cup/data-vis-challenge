@@ -5,4 +5,13 @@
   padding: gutter(xl) 0;
   text-align: center;
   border-top: solid 0.1rem $color-grey--1;
+
+  a {
+    color: $main-colour;
+    transition: opacity .250s ease-out;
+
+    &:hover {
+      opacity: 0.6;
+    }
+  }
 }

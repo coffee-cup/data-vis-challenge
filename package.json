@@ -11,7 +11,7 @@
     "build:production": "cross-env NODE_ENV=production webpack && cp index.html dist/",
     "storybook": "start-storybook -p 9001 -c .storybook",
     "predeploy": "npm run build:production",
-    "deploy": "surge dist/ az-data-vis.surge.sh"
+    "deploy": "surge . az-data-vis.surge.sh"
   },
   "repository": {
     "type": "git",
