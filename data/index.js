@@ -27,10 +27,10 @@ const categoryStrengths = categories.reduce(
 // }
 
 const emptyValues = () => ({
-  [toKey('Executing')]: 0,
-  [toKey('Influencing')]: 0,
-  [toKey('Relationship Building')]: 0,
-  [toKey('Strategic Thinking')]: 0
+  [toKey('Executing')]: 1,
+  [toKey('Influencing')]: 1,
+  [toKey('Relationship Building')]: 1,
+  [toKey('Strategic Thinking')]: 1
 });
 
 const processPerson = p => {

@@ -9,7 +9,7 @@ function RadarComp({ data, name }) {
         width={450}
         height={450}
         padding={80}
-        domainMax={4}
+        domainMax={5}
         highlighted={null}
         style={{ fill: '#ff0000' }}
         data={data}

@@ -23,10 +23,10 @@ export default [
         key: 'andrew-burian',
         label: 'Andrew Burian',
         values: {
-          executing: 0,
-          influencing: 1,
-          'relationship-building': 1,
-          'strategic-thinking': 3
+          executing: 1,
+          influencing: 2,
+          'relationship-building': 2,
+          'strategic-thinking': 4
         }
       }
     ]
@@ -55,10 +55,10 @@ export default [
         key: 'arthur-camara',
         label: 'Arthur Camara',
         values: {
-          executing: 0,
-          influencing: 2,
-          'relationship-building': 1,
-          'strategic-thinking': 2
+          executing: 1,
+          influencing: 3,
+          'relationship-building': 2,
+          'strategic-thinking': 3
         }
       }
     ]
@@ -87,10 +87,10 @@ export default [
         key: 'zia-castillo',
         label: 'Zia Castillo',
         values: {
-          executing: 1,
-          influencing: 2,
-          'relationship-building': 1,
-          'strategic-thinking': 1
+          executing: 2,
+          influencing: 3,
+          'relationship-building': 2,
+          'strategic-thinking': 2
         }
       }
     ]
@@ -119,10 +119,10 @@ export default [
         key: 'maximiliano-castro',
         label: 'Maximiliano Castro',
         values: {
-          executing: 3,
-          influencing: 0,
-          'relationship-building': 1,
-          'strategic-thinking': 1
+          executing: 4,
+          influencing: 1,
+          'relationship-building': 2,
+          'strategic-thinking': 2
         }
       }
     ]
@@ -151,10 +151,10 @@ export default [
         key: 'daniela-díaz reyna',
         label: 'Daniela Díaz Reyna',
         values: {
-          executing: 1,
-          influencing: 0,
-          'relationship-building': 0,
-          'strategic-thinking': 4
+          executing: 2,
+          influencing: 1,
+          'relationship-building': 1,
+          'strategic-thinking': 5
         }
       }
     ]
@@ -183,10 +183,10 @@ export default [
         key: 'wren-handman',
         label: 'Wren Handman',
         values: {
-          executing: 1,
-          influencing: 1,
-          'relationship-building': 0,
-          'strategic-thinking': 3
+          executing: 2,
+          influencing: 2,
+          'relationship-building': 1,
+          'strategic-thinking': 4
         }
       }
     ]
@@ -215,10 +215,10 @@ export default [
         key: 'fabio-kume',
         label: 'Fabio Kume',
         values: {
-          executing: 1,
-          influencing: 0,
-          'relationship-building': 2,
-          'strategic-thinking': 2
+          executing: 2,
+          influencing: 1,
+          'relationship-building': 3,
+          'strategic-thinking': 3
         }
       }
     ]
@@ -247,10 +247,10 @@ export default [
         key: 'brian-leung',
         label: 'Brian Leung',
         values: {
-          executing: 0,
-          influencing: 1,
-          'relationship-building': 0,
-          'strategic-thinking': 4
+          executing: 1,
+          influencing: 2,
+          'relationship-building': 1,
+          'strategic-thinking': 5
         }
       }
     ]
@@ -279,10 +279,10 @@ export default [
         key: 'eric-lin',
         label: 'Eric Lin',
         values: {
-          executing: 2,
-          influencing: 0,
-          'relationship-building': 0,
-          'strategic-thinking': 3
+          executing: 3,
+          influencing: 1,
+          'relationship-building': 1,
+          'strategic-thinking': 4
         }
       }
     ]
@@ -311,10 +311,10 @@ export default [
         key: 'geordie-macdonald',
         label: 'Geordie MacDonald',
         values: {
-          executing: 0,
-          influencing: 2,
-          'relationship-building': 0,
-          'strategic-thinking': 3
+          executing: 1,
+          influencing: 3,
+          'relationship-building': 1,
+          'strategic-thinking': 4
         }
       }
     ]
@@ -343,10 +343,10 @@ export default [
         key: 'pablo-navarro',
         label: 'Pablo Navarro',
         values: {
-          executing: 1,
-          influencing: 2,
-          'relationship-building': 1,
-          'strategic-thinking': 1
+          executing: 2,
+          influencing: 3,
+          'relationship-building': 2,
+          'strategic-thinking': 2
         }
       }
     ]
@@ -375,10 +375,10 @@ export default [
         key: 'jody-rebak',
         label: 'Jody Rebak',
         values: {
-          executing: 1,
-          influencing: 2,
-          'relationship-building': 2,
-          'strategic-thinking': 0
+          executing: 2,
+          influencing: 3,
+          'relationship-building': 3,
+          'strategic-thinking': 1
         }
       }
     ]
@@ -407,10 +407,10 @@ export default [
         key: 'cassidy-robertson',
         label: 'Cassidy Robertson',
         values: {
-          executing: 1,
-          influencing: 2,
-          'relationship-building': 1,
-          'strategic-thinking': 1
+          executing: 2,
+          influencing: 3,
+          'relationship-building': 2,
+          'strategic-thinking': 2
         }
       }
     ]
@@ -439,10 +439,10 @@ export default [
         key: 'nick-salloum',
         label: 'Nick Salloum',
         values: {
-          executing: 1,
-          influencing: 2,
-          'relationship-building': 1,
-          'strategic-thinking': 1
+          executing: 2,
+          influencing: 3,
+          'relationship-building': 2,
+          'strategic-thinking': 2
         }
       }
     ]
@@ -471,10 +471,10 @@ export default [
         key: 'ramtin-seraj',
         label: 'Ramtin Seraj',
         values: {
-          executing: 1,
-          influencing: 1,
-          'relationship-building': 1,
-          'strategic-thinking': 2
+          executing: 2,
+          influencing: 2,
+          'relationship-building': 2,
+          'strategic-thinking': 3
         }
       }
     ]
@@ -503,10 +503,10 @@ export default [
         key: 'oleg-zd',
         label: 'Oleg Zd',
         values: {
-          executing: 1,
-          influencing: 1,
-          'relationship-building': 2,
-          'strategic-thinking': 1
+          executing: 2,
+          influencing: 2,
+          'relationship-building': 3,
+          'strategic-thinking': 2
         }
       }
     ]
@@ -535,10 +535,10 @@ export default [
         key: 'leo-zhang',
         label: 'Leo Zhang',
         values: {
-          executing: 2,
-          influencing: 2,
-          'relationship-building': 0,
-          'strategic-thinking': 1
+          executing: 3,
+          influencing: 3,
+          'relationship-building': 1,
+          'strategic-thinking': 2
         }
       }
     ]
@@ -567,10 +567,10 @@ export default [
         key: 'christine-legge',
         label: 'Christine Legge',
         values: {
-          executing: 1,
-          influencing: 1,
-          'relationship-building': 1,
-          'strategic-thinking': 2
+          executing: 2,
+          influencing: 2,
+          'relationship-building': 2,
+          'strategic-thinking': 3
         }
       }
     ]
@@ -599,10 +599,10 @@ export default [
         key: 'kai-aldag',
         label: 'Kai Aldag',
         values: {
-          executing: 2,
-          influencing: 0,
-          'relationship-building': 0,
-          'strategic-thinking': 3
+          executing: 3,
+          influencing: 1,
+          'relationship-building': 1,
+          'strategic-thinking': 4
         }
       }
     ]
@@ -631,10 +631,10 @@ export default [
         key: 'christopher-scott',
         label: 'Christopher Scott',
         values: {
-          executing: 2,
-          influencing: 0,
-          'relationship-building': 0,
-          'strategic-thinking': 3
+          executing: 3,
+          influencing: 1,
+          'relationship-building': 1,
+          'strategic-thinking': 4
         }
       }
     ]
@@ -663,10 +663,10 @@ export default [
         key: 'qaid-damji',
         label: 'Qaid Damji',
         values: {
-          executing: 0,
-          influencing: 1,
-          'relationship-building': 0,
-          'strategic-thinking': 4
+          executing: 1,
+          influencing: 2,
+          'relationship-building': 1,
+          'strategic-thinking': 5
         }
       }
     ]
@@ -695,10 +695,10 @@ export default [
         key: 'stefano-tirloni',
         label: 'Stefano Tirloni',
         values: {
-          executing: 1,
-          influencing: 0,
-          'relationship-building': 2,
-          'strategic-thinking': 2
+          executing: 2,
+          influencing: 1,
+          'relationship-building': 3,
+          'strategic-thinking': 3
         }
       }
     ]
@@ -727,10 +727,10 @@ export default [
         key: 'daniela-gattoni',
         label: 'Daniela Gattoni',
         values: {
-          executing: 2,
-          influencing: 0,
-          'relationship-building': 2,
-          'strategic-thinking': 1
+          executing: 3,
+          influencing: 1,
+          'relationship-building': 3,
+          'strategic-thinking': 2
         }
       }
     ]
@@ -759,10 +759,10 @@ export default [
         key: 'mack-flavelle',
         label: 'Mack Flavelle',
         values: {
-          executing: 0,
-          influencing: 0,
-          'relationship-building': 2,
-          'strategic-thinking': 3
+          executing: 1,
+          influencing: 1,
+          'relationship-building': 3,
+          'strategic-thinking': 4
         }
       }
     ]
@@ -791,10 +791,10 @@ export default [
         key: 'kan-zhang',
         label: 'Kan Zhang',
         values: {
-          executing: 1,
-          influencing: 2,
-          'relationship-building': 1,
-          'strategic-thinking': 1
+          executing: 2,
+          influencing: 3,
+          'relationship-building': 2,
+          'strategic-thinking': 2
         }
       }
     ]
