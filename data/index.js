@@ -22,10 +22,6 @@ const categoryStrengths = categories.reduce(
   {}
 );
 
-// {
-//   [toKey(cat.category)]: cat.strengths
-// }
-
 const emptyValues = () => ({
   [toKey('Executing')]: 1,
   [toKey('Influencing')]: 1,
